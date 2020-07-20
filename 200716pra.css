@@ -1,0 +1,24 @@
+body {
+    background-image: url(http://www.idolmaster.jp/imas/download/images/wallpaper/imas360p_1280.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    padding: auto;
+    color: black;
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+
+button {
+    padding: 10px 20px;
+    background-color: white;
+    border-style: none;
+    color: red;
+}
+input {
+    height: 35px;
+}
